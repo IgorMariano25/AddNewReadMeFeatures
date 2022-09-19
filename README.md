@@ -2,7 +2,7 @@
 
 - 🔭 VASP...
 - 🌱 Estudande da UFV...
-- 😄 Pronouns:ele/dele
+- 😄 Pronouns:he/him
 
 <div align="center">
   <a href="https://github.com/vitorFLavio">
