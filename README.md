@@ -17,7 +17,7 @@
   <img align="center" alt="vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="vitor-pic" height="180" style="border-radius:50px;" src="https://external-preview.redd.it/4RE-S53nNZV-c7qABZZqfrkKoGmE0SQdeeoHJ80zRC8.jpg?auto=webp&s=ee595a5397b426804d7cb46dadddbb61448d2420">
+  <img align="right" alt="vitor-pic" height="200" style="border-radius:50px;" src="https://external-preview.redd.it/4RE-S53nNZV-c7qABZZqfrkKoGmE0SQdeeoHJ80zRC8.jpg?auto=webp&s=ee595a5397b426804d7cb46dadddbb61448d2420">
 </div>
   
   ##
