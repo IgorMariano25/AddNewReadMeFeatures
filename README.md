@@ -1,4 +1,4 @@
-## <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vitor Flávio</h1> <img align="right" alt="coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
+## <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vitor Flávio</h1> <img align="right" alt="vitor-pic" height="300" style="border-radius:300px;" src="https://external-preview.redd.it/4RE-S53nNZV-c7qABZZqfrkKoGmE0SQdeeoHJ80zRC8.jpg?auto=webp&s=ee595a5397b426804d7cb46dadddbb61448d2420">
 - ❄️ VASP...
 - ❄️ Estudande da UFV...
 - ❄️ Pronouns:he/him
@@ -20,8 +20,8 @@
   <img align="center" alt="vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="vitor-pic" height="200" style="border-radius:50px;" src="https://external-preview.redd.it/4RE-S53nNZV-c7qABZZqfrkKoGmE0SQdeeoHJ80zRC8.jpg?auto=webp&s=ee595a5397b426804d7cb46dadddbb61448d2420">
 </div>
+  <img align="right" alt="coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
   
   ##
  
