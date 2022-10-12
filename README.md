@@ -1,4 +1,5 @@
-## <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vitor Flávio</h1> <img align="right" alt="vitor-pic" height="250" style="border-radius:250px;" src="https://external-preview.redd.it/4RE-S53nNZV-c7qABZZqfrkKoGmE0SQdeeoHJ80zRC8.jpg?auto=webp&s=ee595a5397b426804d7cb46dadddbb61448d2420">
+## <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vitor Flávio</h1> 
+
 - ❄️ VASP...
 - ❄️ Estudande da UFV...
 - ❄️ Pronouns:he/him
@@ -9,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro&layout=compact&langs_count=7&theme=tokyonight"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorFlavio&&theme=tokyonight" alt="vitorFlavio" /></p>
    
+    
 </div>
 
 
@@ -36,6 +38,7 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  <img align="center" alt="vitor-pic" height="1000" style="border-radius:750px;" src="https://external-preview.redd.it/4RE-S53nNZV-c7qABZZqfrkKoGmE0SQdeeoHJ80zRC8.jpg?auto=webp&s=ee595a5397b426804d7cb46dadddbb61448d2420">
  
 
 
