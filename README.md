@@ -1,7 +1,7 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vitor Flávio</h1> 
-<img align="right" alt="coding" width="200" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
+<img align="right" alt="coding" width="150" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 <h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" 
                     
                ❄️ BRASIL...❄️MG...❄️ Estudande da UFV...
