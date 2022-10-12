@@ -1,8 +1,11 @@
-## <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vitor Flávio</h1> 
+![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakr001&label=Profile%20views&color=0e75b6&style=flat" alt="vitorFlavio" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorFlavio" alt="vitorFlavio" /></a> </p>
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vitor Flávio</h1> 
+<h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> </h3>
+❄️ VASP...
+❄️ Estudande da UFV...
 
-- ❄️ VASP...
-- ❄️ Estudande da UFV...
-- ❄️ Pronouns:he/him
 
 <div align="center">
   <a href="https://github.com/vitorFlavio">
