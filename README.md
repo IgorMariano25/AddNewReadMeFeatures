@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="200" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 <h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" 
                     
-                    ...❄️ BRASIL...❄️MG...❄️ Estudande da UFV...
+                    ❄️ BRASIL...❄️MG...❄️ Estudande da UFV...
  
  
 </h3> 
