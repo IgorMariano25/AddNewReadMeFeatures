@@ -1,6 +1,5 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakr001&label=Profile%20views&color=0e75b6&style=flat" alt="vitorFlavio" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorFlavio" alt="vitorFlavio" /></a> </p>
+
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vitor Flávio</h1> 
 <h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> </h3>
 ❄️ VASP...
@@ -12,9 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorFlavio&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro&layout=compact&langs_count=7&theme=tokyonight"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorFlavio&&theme=tokyonight" alt="vitorFlavio" /></p>
-   
-    
+     
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakr001&label=Profile%20views&color=0e75b6&style=flat" alt="vitorFlavio" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorFlavio" alt="vitorFlavio" /></a> </p>
 
 
 <div style="display: inline_block"><br>
