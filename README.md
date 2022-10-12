@@ -1,5 +1,4 @@
-## Olá!Eu sou o Vitor...
-
+## <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vitor Flávio</h1> <img align="right" alt="coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 - ❄️ VASP...
 - ❄️ Estudande da UFV...
 - ❄️ Pronouns:he/him
@@ -8,9 +7,10 @@
   <a href="https://github.com/vitorFlavio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorFlavio&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro&layout=compact&langs_count=7&theme=tokyonight"/>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
-     
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorFlavio&&theme=tokyonight" alt="vitorFlavio" /></p>
+   
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
