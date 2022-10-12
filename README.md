@@ -2,9 +2,14 @@
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Vitor Flávio</h1> 
 <img align="right" alt="coding" width="200" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
-<h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" /> </h3> 
-❄️ VASP...
-❄️ Estudande da UFV...
+<h3> About Me: <img align="center" alt="eat-sleep-code" width ="77px" src = "https://res.cloudinary.com/gaoy5782/image/upload/v1652848639/eat-sleep-code_hrdfwg.gif" 
+                    
+                    ...❄️ BRASIL...❄️MG...❄️ Estudande da UFV...
+ 
+ 
+</h3> 
+
+
 
 
 <div align="center">
