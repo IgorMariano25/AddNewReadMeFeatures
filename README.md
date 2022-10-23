@@ -6,7 +6,7 @@
   
   
    
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dracula&size=28&center=true&vCenter=true&width=600&lines=Eu+sou+do+Brasil...;de+Minas+Gerais...;e+estudante+da+UFV.)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dracula&size=28&center=true&vCenter=true&width=560&lines=Eu+sou+do+Brasil...;de+Minas+Gerais...;e+estudante+da+UFV.)](https://git.io/typing-svg)
  
 </h3> 
   
