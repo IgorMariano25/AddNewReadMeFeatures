@@ -6,7 +6,7 @@
   
   
    
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=onedark&size=28&center=true&vCenter=true&width=460&lines=Eu+sou+do+Brasil...;de+Minas+Gerais...;e+estudante+da+UFV.)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yellow-green&size=28&center=true&vCenter=true&width=460&lines=Eu+sou+do+Brasil...;de+Minas+Gerais...;e+estudante+da+UFV.)](https://git.io/typing-svg)
  
 </h3> 
   
@@ -16,9 +16,9 @@
 
 <div align="center">
   <a href="https://github.com/vitorFlavio">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vitorFlavio&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro&layout=compact&langs_count=7&theme=onedark"/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorFlavio&&theme=onedark" alt="vitorFlavio" /></p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vitorFlavio&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro&layout=compact&langs_count=7&theme=highcontrast"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorFlavio&&theme=highcontrast" alt="vitorFlavio" /></p>
      
 </div>
 
